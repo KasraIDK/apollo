@@ -12,5 +12,6 @@ Android Chat Client for [Areia](https://github.com/vivyir/areia) written in Flut
 
 <br>
 
->[!CAUTION] Note on AI usage:
->This codebase was largely generated using Gemini AI under human guidance. The code has been  structured and tested to ensure stability, but users and contributors should expect AI-generated code throughout the repository.
+>[!important]
+> **Note on AI usage**:
+> This codebase was largely generated using Gemini AI under human guidance. The code has been  structured and tested to ensure stability, but users and contributors should expect AI-generated code throughout the repository.
